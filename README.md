@@ -1,2 +1,2 @@
 # odin-recipes
-Estes es mi primer poyecto en The odin proyect, veamos como me sale.
+Estes es mi primer proyecto en The odin proyect, veamos como me sale.
